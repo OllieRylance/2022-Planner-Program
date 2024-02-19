@@ -1,14 +1,19 @@
 # 2022-Planner-Program
-## Description
+## Overview
 
 This system may be one of the largest personal projects I did before university. It was mainly for storing A-Level tasks, but I repurposed it as a general planner after a few months of use. I found it more efficient than other task trackers, so I used it to manage my to-do list throughout the year.
 
-The closest coding model the programming of this program can be compared to is the build and fix method. There were many flaws thanks to this and it shows in the poor structure of the code and storage system. The base program was added to without taking into account of whether there was a slick way to integrate the new content. To use this program you need to have an understanding that is not properly explained by the prompts.
+The closest coding model the programming of this program can be compared to is the build and fix method. There were many flaws thanks to this and it shows in the poor structure of the code and storage system. The base program was added without taking into account whether there was a slick way to integrate the new content. To use this program you need to have an understanding that is not properly explained by the prompts.
 
 ## Table of Contents
 
 - [Recent Edits](#recent-edits)
 - [Takeaway](#takeaway)
+
+## Technical Description
+The main (and only) python file, planner.py, draws information from the text document, planner.txt, and initially displays all tasks that are marked as incomplete.
+
+The user is then asked if they would like to make any additions to the list or mark tasks as complete. If the user chooses one of those options the program will then prompt to input what the necessary information to complete those actions. 
 
 ## Recent Edits
 ### Edits Since 2022
@@ -22,5 +27,5 @@ The closest coding model the programming of this program can be compared to is t
 - Making modifications to a poorly structured and commented program is very tricky:
   - Adding relatively simple features like grouping was very difficult,
   - The code clearly could be a lot more efficient now that I am looking back in 2024 and I would have a lot of tips for 17-year-old me if I could go back,
-- How to use code in daily life to make it a tiny bit easier while practicing core skills such as logical reasoning and ways to think about projects larger than the psuedocode we had to interpret or write in exam papers.
+- How to use code in daily life to make it a tiny bit easier while practicing core skills such as logical reasoning and ways to think about projects larger than the pseudocode we had to interpret or write in exam papers.
 
