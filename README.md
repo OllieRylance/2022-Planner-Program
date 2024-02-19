@@ -10,13 +10,13 @@ The closest coding model the programming of this program can be compared to is t
 - [Takeaway](#takeaway)
 
 ## Recent Edits
-### Edits I have made since 2022
+### Edits Since 2022
 
 - Any comments longer than a single word,
 - Removing personal tasks.
 
 ## Takeaway
-### Things I learned from the project
+### Things I Learned from the Project
 
 - Making modifications to a poorly structured and commented program is very tricky:
   - Adding relatively simple features like grouping was very difficult,
