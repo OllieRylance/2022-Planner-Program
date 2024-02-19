@@ -2,6 +2,7 @@
 ## Description
 
 This system may be one of the largest personal projects I did before university. It was mainly for storing A-Level tasks, but I repurposed it as a general planner after a few months of use. I found it more efficient than other task trackers, so I used it to manage my to-do list throughout the year.
+
 The closest coding model the programming of this program can be compared to is the build and fix method. There were many flaws thanks to this and it shows in the poor structure of the code and storage system. The base program was added to without taking into account of whether there was a slick way to integrate the new content. To use this program you need to have an understanding that is not properly explained by the prompts.
 
 ## Table of Contents
