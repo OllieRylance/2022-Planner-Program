@@ -1,0 +1,152 @@
+# --------- nea due april 4th;GROUP: School1
+# FMat Mr C H/W: pg 334 q 5, 10, 12;GROUP: School2
+# FMat Mr H Revise: stats1 tuesday 14th
+# Chem ---- Revise: chem 1 tuesday 1st
+# FMat ---- Revise: fmat 1 tuesday 1st
+# FMat ---- Revise: math 1 wednesday 2nd
+# Comp ---- Revise: comp 1 thursday 3rd
+# Comp ---- Revise: comp 2 monday 7th
+# FMat ---- Revise: math 2 monday 7th
+# Chem ---- Revise: chem 2 tuesday 8th
+# FMat ---- Revise: fmat 2 tuesday 8th
+# FMat Mr H Write up: chi tests
+# FMat Mr H H/W: fit tests
+# FMat Mr C Write up: pendulums
+# FMat Mr C Write up: spring shm
+# FMat Ms B H/W: ex 4.4 questions 1-6 + whatever
+# Comp Mr M H/W: sql practice
+# Chem Mr L Write up: colourimetry
+# FMat Mr H Write up: binomial chi
+# FMat Ms B Write up: hyperbolic functions
+# FMat Ms B add hyperbolic functions to quick access notes
+# FMat Mr H H/W: binomial chi
+# FMat ---- make list of topic for maths
+# Chem Mr L Write up: ligand stuff
+# Chem Ms W H/W: research practical
+# Chem Ms W Write up: aromatic
+# FMat Ms B H/W: q 15 on hyperbolic functions
+# FMat Ms B Write up: tanh stuff
+# Comp Mr K H/W: regex
+# FMat Mr H H/W: goodness of fit
+# FMat Mr H Write up: lhs of chi
+# FMat Ms B H/W: inverse hyp func
+# FMat Ms B Write up: inverse hyp funcs
+# Chem Mr L Write up: complex colour
+# FMat Mr C Write up: maclaurin series
+# FMat Mr C Write up: standard result for maclaurin
+# FMat Ms B H/W: chapter assessment
+# Chem Mr L H/W: trans metals
+# FMat Mr H H/W: questions on differential equ
+# FMat Mr H H/W: past paper
+# FMat Mr C H/W: questions on mac series
+# Chem Mr L Write up: catalysts
+# FMat Ms B H/W: look at revision support q&a's
+# FMat Mr H Write up: integrating factors
+# FMat Ms B H/W: revision support q's
+# FMat Ms B Write up: polar area
+# FMat Ms B H/W: ex 5.3 on polar area monday
+# FMat Mr C H/W: pg 157 q 12 tuesday
+# FMat Mr C H/W: mech paper on gc tuesday
+# FMat Mr C Write up: volumes of revolution
+# FMat Mr H H/W: first order diff 2 on gc friday
+# Comp Mr M H/W: database unit test tuesday
+# Comp Mr M H/W: go through Hex Baron questions monday
+# Chem Mr L H/W: write up practical results and post on gc monday
+# Chem Ms W Write up: frei craft
+# FMat Mr H H/W: past paper 2 tuesday
+# --------- gym program improvements
+# Chem Mr L Write up: catalyst part 2
+# FMat Mr H Revise: look at camera roll question
+# --------- send emails for extra time
+# FMat ---- Revise: year 1 core further
+# Chem ---- Revise: 2.6
+# Chem ---- Revise: 3.9
+# Chem ---- Revise: 3.16
+# FMat ---- Revise: normal maths core year 1
+# FMat ---- Revise: normal maths core year 2
+# FMat ---- Revise: normal maths mech year 1
+# FMat ---- Revise: normal maths mech year 2
+# FMat ---- Revise: normal maths stats year 1
+# FMat ---- Revise: normal maths stats year 2
+# FMat ---- Revise: further mech
+# FMat ---- Revise: year 2 core further
+# Comp ---- Revise: go through shared notes and make slick
+# Comp ---- Revise: go though and annotate entirety of hex baron code
+# FMat Ms B Revise: questions under desk on complex numbers
+# FMat Ms B Revise: links on maths notes
+# FMat Mr C Revise: using past paper list
+# Comp ---- Revise: move all notes (on exam) across to non-shared file
+# FMat ---- Revise: mech questions on topics
+# Chem ---- Revise: go through worthwhile topic
+# Chem ---- Revise: do practice questions
+# FMat ---- Revise: find topics worth revising and revise them for normal maths
+# FMat ---- Revise: all of normal maths stats
+# --------- make timetable with help of mum
+# --------- look at chapter summaries for books
+make myself drink more water;GROUP: Health
+# find good bulking snacks;GROUP: Health
+# --------- go through all write ups and take note of anything missed;GROUP: School1
+# --------- clean up desktop
+# --------- clean up downloads
+# --------- uninstall useless ****
+# --------- clean up google drive
+# --------- make new gmail for professional life
+# Comp ---- find a good database example to copy for my NEA;GROUP: School2
+# --------- generally clean up computer
+become better at typing;GROUP: Freetime coding
+make coding a daily thing in my life?;GROUP: Freetime coding
+# Comp ---- make my work that i do for the next month just homework and nea because im really feeling it;GROUP: School2
+# Comp ---- for nea make a google doc that has my notes on it and have the first few pages as an concise index for EVERYTHING;GROUP: School2
+# make this a priority queue so more important or faster pieces of work happen first;GROUP: Freetime coding
+# --------- look into setting a screen time limit on websites on my pc
+# --------- add a contents page to all my notes documents;GROUP: School2
+# --------- separate maths and further maths and write them up properly;GROUP: School2
+# --------- make a work split like the gym so it stays varied (e.g. of this on paper);GROUP: School2
+# --------- try os.system('cls') on planner before each display
+# --------- make a note on the chem doc to go through seneca for some topics to improve note quality;GROUP: School2
+# Comp ---- find a good sql editor for nea;GROUP: School2
+# see if there is a way i can make this planner accessible by pc and mobile;GROUP: Freetime coding
+for g.py find a way to work out pbs in everything then make a new dictionary of all exercises and their progression;GROUP: Freetime coding
+make a test for muscle groups worked in made up schedule;GROUP: Freetime coding
+# spend a full day on music sorting so i feel generally better while working everyday
+# in planner.py get rid of unnecessary spaces at end of new line problem;GROUP: Freetime coding
+# --------- move chapter summaries of the books i read
+try the CBT-I method of restricted sleep and slow improvements;GROUP: Health
+# --------- try to make microsoft edge my main browser because it is very quick?
+# on music days look through the downloaded music to this pc
+# --------- look into a watch to monitor sleep time and quality
+update desktop
+# Chem Ms W Write up: amines and amides;GROUP: School2
+# Comp ---- find image to ascii converter for nea;GROUP: School2
+# --------- look into bristol accommodation;GROUP: School1
+# FMat Mr H H/W: gc large date task 0 friday;GROUP: School2
+# FMat Mr C H/W: centre of mass gc thursday;GROUP: School2
+# Chem Ms W H/W: booklet of practice questions friday;GROUP: School2
+# FMat Mr C Write up: centre of mass 2;GROUP: School2
+# Chem Ms W Write up: reactions of amines;GROUP: School2
+# FMat ---- add "which method of integration to use" to maths notes;GROUP: School2
+# Comp ---- move all stuff from planner to "NEA 101" in a new section called to do;GROUP: School2
+# Comp ---- add read and make notes on NEA book on shelf to "NEA 101"  to do section;GROUP: School2
+# FMat ---- look through my desktop a level folders and see if past papers are worth anything;GROUP: School1
+# sell csgo skins
+# sort out library stuff
+# FMat Ms B H/W: ex 12.1 q1-3 thursday ;GROUP: School2
+# FMat Ms B Write up: second order diff ;GROUP: School2
+# FMat Ms B Write up: more second order diffs ;GROUP: School2
+# Chem Ms W Write up: condensation polymers ;GROUP: School2
+# FMat Mr C Write up: com on lamina ;GROUP: School2
+# FMat Mr C H/W: ex 13.3 q 14,8,10,16 thursday ;GROUP: School2
+# FMat Mr C H/W: past paper on GC monday ;GROUP: School2
+# FMat Mr C H/W: oblique questions tuesday ;GROUP: School2
+# Chem Ms W H/W: past paper friday ;GROUP: School2
+# FMat Mr H H/W: comprehension questions friday ;GROUP: School2
+# aim for regular cardio
+aim for regular dental care
+write up "hello world" book
+# meet up with aaron
+# FMat Mr C H/W: questions on classroom and past paper tuesday ;GROUP: School2
+# FMat Mr H H/W: new comprehension? due??? ;GROUP: School2
+do the summer stuff in the folder on my desktop over summer
+# FMat Mr H H/W: easter homework ;GROUP: School2
+# Chem Ms W H/W: easter week 1 and 2 homework ;GROUP: School2
+"A history of nearly everything" - Bill Boyson
