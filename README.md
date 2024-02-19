@@ -5,6 +5,8 @@ This system may be one of the largest personal projects I did before university.
 
 The closest coding model the programming of this program can be compared to is the build and fix method. There were many flaws thanks to this and it shows in the poor structure of the code and storage system. The base program was added without taking into account whether there was a slick way to integrate the new content. To use this program you need to have an understanding that is not properly explained by the prompts.
 
+What the planner generally looks like is shown in "page view.png".
+
 ## Table of Contents
 
 - [Technical Description](#technical-description)
